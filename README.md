@@ -1,4 +1,4 @@
 # TypeScriptReact-Snippets
-```{typescript}
+```{TypeScript}
 import { FC } from 'react'
 ```
